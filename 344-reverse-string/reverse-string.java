@@ -8,8 +8,5 @@ class Solution {
             i++;
             j--;
         }
-        for(char reverse: s){
-            System.out.print(reverse+" ");
-        }
     }
 }
